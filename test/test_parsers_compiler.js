@@ -1094,8 +1094,8 @@
 
       it('should remove metadata on conversion', function(done) {
         var game = {
-          'title': 'My Game',
-          'author': 'Jo Doe',
+          'title': 'Misery Note',
+          'author': 'terriblevera',
           $metadata: {
             $file: 'info.dry',
             title: {$line: 1},
